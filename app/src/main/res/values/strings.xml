@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">healthycricleviewdemo</string>
+    <string name="show">显示</string>
+    <string name="_85">85</string>
+    <string name="xxx">健康指数</string>
+
+</resources>
